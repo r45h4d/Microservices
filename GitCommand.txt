@@ -1,0 +1,15 @@
+Part1:
+git add
+git commit
+git clone
+git pull
+git push
+git branch
+git checkout
+git reset
+Part2:
+-amend commit
+-rebase fix up(interactive rebase)
+-merge
+-revert
+-cherry pick
